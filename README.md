@@ -1,3 +1,3 @@
 # parallax-background
 
-Demo: https://codepen.io/befoore/full/JEbBNN/
+Demo: https://befoore.github.io/parallax-background/src/
