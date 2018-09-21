@@ -1,3 +1,3 @@
 # parallax-background
 
-Demo: https://befoore.github.io/parallax-background/src/
+Demo: https://horvathpatrik.github.io/parallax-background/src/
